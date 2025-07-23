@@ -42,7 +42,7 @@ This is my first Data Science & Machine Learning project, where I built a classi
    - Visualized confusion matrix and classification report
 
 5. **Final Model**
-   - Achieved high accuracy using **Random Forest Classifier**
+   - Achieved high accuracy using **Logistic Regression Model**
 
 ---
 
